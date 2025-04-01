@@ -1,3 +1,7 @@
+Author: Shijia He
+Date: 1/4/25
+Description: Controlling LEDs using a Raspberry Pi
+
 RPi.GPIO as GPIO
 import time
 GPIO.setmode(GPIO.BCM)
